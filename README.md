@@ -19,4 +19,4 @@ Windows 10
 <br>[pip install pywin32](https://pypi.org/project/pywin32/#files)
 
 ## Source
-Right click [test_main.py](https://github.com/dnaspider/pdpy/blob/master/test_main.py), [pd.py](https://github.com/dnaspider/pdpy/blob/master/pd.py) -> Open with -> VS Code
+[test_main.py](https://github.com/dnaspider/pdpy/blob/master/test_main.py), [pd.py](https://github.com/dnaspider/pdpy/blob/master/pd.py) -> Open with -> VS Code
